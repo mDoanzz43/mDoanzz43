@@ -1,6 +1,6 @@
  👋 Hi there, I'm Mạnh Doan!
 
- 🎓 I'm a final-year student majoring in Robotics at University of Engineering and Technology (UET), VNU.
+ 🎓 I'm a three-year student majoring in Robotics at University of Engineering and Technology (UET), VNU.
 
 🚀 I'm passionate about:
 -  Artificial Intelligence 
