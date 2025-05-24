@@ -3,8 +3,9 @@
  🎓 I'm a final-year student majoring in Robotics at University of Engineering and Technology (UET), VNU.
 
 🚀 I'm passionate about:
-- 🤖 Robotics
-- 🧠 Artificial Intelligence 
+-  Artificial Intelligence 
+-  Robotics
+
 
 ✨ Chill & Enjoy
 <!---
