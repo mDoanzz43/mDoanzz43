@@ -1,15 +1,14 @@
- 👋 Hi there, I'm Mạnh Doan!
+# 👋 Hi there, I'm Manh Doan!
 
- 🎓 I'm a three-year student majoring in Robotics at University of Engineering and Technology (UET), VNU.
+🎓 Engineer in Robotics Engineering from VNU University of Engineering and Technology (VNU-UET), Vietnam National University, Hanoi.
 
-🚀 I'm passionate about:
--  Artificial Intelligence 
--  Robotics
+💡 Interested in:
+- Computer Vision
+- Large Language Models (LLMs)
+- Edge AI
+- Robotics
 
+🚀 Seeking opportunities as an AI Engineer to build practical AI systems from research to deployment.
 
- Chill & Enjoy
-<!---
-mDoanzz43/mDoanzz43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-My contact: manhdoan454545@gmail.com
+## 📫 Contact
+- Email: **manhdoan454545@gmail.com**
